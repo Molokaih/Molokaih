@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Bienvenido a Molokaih</h1>
+<h5>Soluciones innovadoras para un mundo conectado</h5>  
 <img src="https://github.com/Molokaih/Molokaih/blob/main/LinkedIn%20personal%20banner.jpg" />
 
 <a href="https://www.instagram.com/molokaih/" target="_blank">
